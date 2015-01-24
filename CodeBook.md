@@ -2,30 +2,55 @@
 
 ##Variables in run_analysis.R##
 * filepath
+
 	This character vector takes path to several files and get used in several reading functions.
+
 * testds
+
 	Data frame with testing dataset.
+
 * trainds
+
 	Data frame with training dataset.
+
 * data
+
 	The whole dataset after binding previous two.
+
 *colname
+
 	Data frame of column names taken in features.txt.
+
 *labelstest
+
 	Vector of activity labels from test.
+
 *labelstrain
+
 	Vector of activity labels from train.
+
 *labels 
+
 	The whole labels vector after binding previous two.
+
 *subjtest
+
 	Vector of testing subjects.
+
 *subjtrain
+
 	Vector of training subjects.
+
 *subjects
+
 	The whole subjects vector after binding previous two.
+
 *vec
+
 	This vector using for identifying what columns we need to keep. 
+
 *finaldata 
+
 	Resulting tidy dataset.
 
 ##Transformations##
