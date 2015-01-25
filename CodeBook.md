@@ -17,39 +17,39 @@
 
 	The whole dataset after binding previous two.
 
-*colname
+* colname
 
 	Data frame of column names taken in features.txt.
 
-*labelstest
+* labelstest
 
 	Vector of activity labels from test.
 
-*labelstrain
+* labelstrain
 
 	Vector of activity labels from train.
 
-*labels 
+* labels 
 
 	The whole labels vector after binding previous two.
 
-*subjtest
+* subjtest
 
 	Vector of testing subjects.
 
-*subjtrain
+* subjtrain
 
 	Vector of training subjects.
 
-*subjects
+* subjects
 
 	The whole subjects vector after binding previous two.
 
-*vec
+* vec
 
 	This vector using for identifying what columns we need to keep. 
 
-*finaldata 
+* finaldata 
 
 	Resulting tidy dataset.
 
